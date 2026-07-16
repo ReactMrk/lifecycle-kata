@@ -34,4 +34,3 @@ Your new requirements are:
 - When the logout button is pressed an Alert with the following text should be displayed: "Goodbye". The alert should be displayed for 3 seconds.
 - Implement the functionality using useEffect.
 - You can only modify the CustomerList.jsx
-
