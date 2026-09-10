@@ -23,7 +23,7 @@ After some time on production, a new requirement has been requested. When agents
 To do this improvement, a principal engineer suggested you create a component using `useEffect` that displays an alert on top of the list when a new customer is added. The alert should be displayed for 2 seconds.
 Check https://developer.mozilla.org/en-US/docs/Web/API/Window/setTimeout for additional info.
 
-**Use `src/Alert.jsx` file**
+**Use `Alert.jsx` file**
 
  <br />
  
